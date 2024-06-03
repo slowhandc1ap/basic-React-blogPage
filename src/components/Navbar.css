@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+}
+.logo{
+    margin-right: auto;
+    padding-left: 10px;
+    color: whitesmoke;
+}
+
+a{
+    color:white ;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 18px;
+    padding: 10px 16px;
+}
+a:hover{
+    color:orange;
+}
